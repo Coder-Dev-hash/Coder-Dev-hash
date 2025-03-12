@@ -1,28 +1,23 @@
-# <div align="center">👨‍💻 Aashish Thakuri</div>
+# <div align="center">✨ Aashish Thakuri | Digital Craftsman ✨</div>
 
 <div align="center">
-  <a href="javascript:void(0)">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=440&lines=Software+Engineer;Cloud+Architect;DevOps+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=200&section=header&text=Building%20Digital%20Worlds&fontSize=42&fontAlignY=36&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  
-  <a href="javascript:void(0)">
-    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/borderseperator.gif" width="100%">
-  </a>
-  
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Software+Architect;Cloud+Engineering+Enthusiast;Creator+of+Digital+Solutions;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</p>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/programming.gif" />
+## ⚡ The Philosophy Behind My Code
 
-## 🔥 Spotlight
+> "I believe great software isn't just about solving problems—it's about creating experiences that feel like magic while remaining invisible in their complexity."
 
-- 🚀 Building scalable cloud infrastructure with **AWS** & **Azure**
-- 🔐 Implementing **zero-trust security** architectures
-- 🤖 Developing **CI/CD pipelines** for seamless deployments
-- 🌐 **Kubernetes enthusiast** orchestrating containerized applications
-- 📊 Passionate about **data-driven architecture** decisions
+I approach every project with three core principles:
+- **Elegance** in architecture
+- **Empathy** for the end user
+- **Excellence** in execution
+
+My journey isn't just about writing code—it's about crafting solutions that make a meaningful difference.
 
 ## 💻 Tech Arsenal
 
@@ -105,109 +100,101 @@
   </tr>
 </table>
 
-## 🌌 Infrastructure as Code
-
-```terraform
-module "aashish_skills" {
-  source = "github.com/AashishThakuri/terraform-modules"
-  
-  name  = "aashish-infrastructure"
-  
-  cloud_providers = {
-    aws    = "advanced"
-    azure  = "intermediate"
-    gcp    = "learning"
-  }
-  
-  containerization = {
-    docker     = "advanced"
-    kubernetes = "advanced"
-    helm       = "intermediate"
-  }
-  
-  ci_cd = {
-    github_actions = "advanced"
-    jenkins        = "intermediate"
-    gitlab_ci      = "intermediate"
-    argocd         = "intermediate"
-  }
-  
-  monitoring = {
-    prometheus = "advanced"
-    grafana    = "advanced"
-    elk_stack  = "intermediate"
-  }
-  
-  security = {
-    vault          = "intermediate"
-    oauth          = "advanced"
-    zero_trust     = "intermediate"
-    devsecops      = "learning"
-  }
-}
-```
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AashishThakuri&theme=tokyonight&hide_border=true&background=1A1B27"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AashishThakuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishThakuri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=1A1B27"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AashishThakuri&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-</div>
-
-## 🎯 My DevOps Architecture Blueprint
+## 📊 The Developer's Journey Map
 
 ```mermaid
-graph TD
-    A[Source Code] -->|Git Push| B[GitHub]
-    B -->|Triggers| C[CI Pipeline]
-    C -->|Build| D[Docker Image]
-    D -->|Push| E[Container Registry]
-    C -->|Run| F[Automated Tests]
-    F -->|Success| G{Deploy?}
-    G -->|Dev/Staging| H[Kubernetes Dev Cluster]
-    G -->|Production| I[Production Approval]
-    I -->|Approved| J[Kubernetes Prod Cluster]
-    J --> K[Monitoring & Alerting]
-    K -->|Metrics| L[Grafana Dashboards]
-    K -->|Logs| M[Elasticsearch]
-    L --> N[Performance Analysis]
-    M --> N
-    N -->|Insights| A
-    
-    style A fill:#3498db,stroke:#333,stroke-width:2px
-    style J fill:#e74c3c,stroke:#333,stroke-width:2px
-    style K fill:#2ecc71,stroke:#333,stroke-width:2px
-    style N fill:#f39c12,stroke:#333,stroke-width:2px
+journey
+  title My Developer Evolution Path
+  section Foundation
+    Learn Fundamentals: 5: Me
+    First Programming Language: 5: Me
+    Building Simple Projects: 4: Me
+  section Growth
+    Master Web Development: 5: Me
+    Explore Cloud Services: 4: Me
+    Contribute to Open Source: 3: Me
+  section Expertise
+    System Architecture Design: 4: Me
+    DevOps & Infrastructure: 5: Me
+    Mentoring Others: 4: Me
+  section Future
+    AI/ML Integration: 3: Me, Future
+    Serverless Architecture: 4: Me, Future
+    Creating Technical Content: 3: Me, Future
 ```
 
-## 🚀 Featured Projects
+## 🌟 The Project Observatory
 
 <div align="center">
-  <a href="https://github.com/AashishThakuri/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashishThakuri&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AashishThakuri/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashishThakuri&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Cloud Native Microservices Platform</h3>
+      <div align="center">  
+        <a href="https://github.com/AashishThakuri/cloud-native" target="_blank">
+          <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/cloud-project.png" alt="Cloud Native Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/AashishThakuri/cloud-native" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+          </a>
+        </p>
+        <p>A distributed system with <strong>event-driven architecture</strong> using Kubernetes, Kafka, and service mesh.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI-Enhanced Developer Workflow</h3>
+      <div align="center">  
+        <a href="https://github.com/AashishThakuri/dev-ai" target="_blank">
+          <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/dev-ai-project.png" alt="Dev AI Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/AashishThakuri/dev-ai" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+          </a>
+        </p>
+        <p>Tools that <strong>amplify developer productivity</strong> using AI-assisted coding and workflow automation.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
-## 🎮 My Coding Workstation
+## 🔮 Code as Creative Expression
 
 <div align="center">
-  <a href="javascript:void(0)">
-    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/coding-station.svg" width="600" height="400" alt="Coding Workstation SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/code-art.png" alt="Code Art" width="800px" />
 </div>
+
+## 🏆 Developer Achievement Tree
+
+```
+Leadership in Tech
+│
+├── Architectural Vision
+│   ├── Microservices Design (★★★★★)
+│   ├── Event-Driven Systems (★★★★☆)
+│   └── Scalable Infrastructure (★★★★★)
+│
+├── Engineering Excellence  
+│   ├── Clean Code Practices (★★★★★)
+│   ├── Performance Optimization (★★★★☆)
+│   └── Security First Approach (★★★★★)
+│
+└── Innovation & Growth
+    ├── Open Source Contributions (★★★★☆)
+    ├── Continuous Learning (★★★★★) 
+    └── Mentoring & Knowledge Sharing (★★★★☆)
+```
 
 ## 🕹️ Interactive GitHub Contribution Animation
 
@@ -215,61 +202,190 @@ graph TD
   <img width="100%" src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Terraform    12 hrs 30 mins  ██████████░░░░░░░░░░░░  40.23%
-Python       8 hrs 45 mins   ███████░░░░░░░░░░░░░░░  28.16%
-YAML         4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░  13.54%
-Markdown     2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░   6.71%
-Bash         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░   5.81%
-Other        1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░   5.55%
-```
-<!--END_SECTION:waka-->
-
-## 🔄 My Service Architecture
+## 🧠 Knowledge Garden
 
 <div align="center">
   <a href="javascript:void(0)">
-    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/service-architecture.svg" width="600" height="400" alt="Service Architecture SVG" />
+    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/mind-map.svg" width="800px" height="400px" alt="Knowledge Mind Map" />
   </a>
 </div>
 
-## 🛡️ Security Focus Areas
+## 📈 Impact Visualization
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-phi-eight.vercel.app/?user=AashishThakuri&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=7F3FBF&fire=FF5700&ring=5FDBFF" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=AashishThakuri&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=5FDBFF&border=7F3FBF" alt="GitHub Streak Stats" width="49%" />
+</div>
+
+## 💫 Dimensional Thinking Process
 
 <div align="center">
   
-| Security Domain | Tools & Techniques |
-|:---------------:|:------------------:|
-| **Infrastructure Security** | HashiCorp Vault, AWS KMS, Azure Key Vault |
-| **Application Security** | OWASP Testing, SonarQube, Snyk |
-| **Container Security** | Trivy, Clair, NeuVector |
-| **Compliance** | CIS Benchmarks, SOC2, GDPR |
-| **Network Security** | Zero Trust Architecture, mTLS, Service Mesh |
-| **IAM** | RBAC, OAuth 2.0, OIDC, JWT |
+```stl
+solid ProblemSolving
+  facet normal 0.5 0.5 1.0
+    outer loop
+      vertex 0.0 0.0 0.0 # Identify Problem
+      vertex 1.0 0.0 0.0 # Analyze Context
+      vertex 0.0 1.0 0.0 # Define Requirements
+    endloop
+  endfacet
+  facet normal -0.5 0.5 1.0
+    outer loop
+      vertex 1.0 0.0 0.0 # Analyze Context
+      vertex 1.0 1.0 0.0 # Research Solutions
+      vertex 0.0 1.0 0.0 # Define Requirements
+    endloop
+  endfacet
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 0.0 1.0 0.0 # Define Requirements
+      vertex 1.0 1.0 0.0 # Research Solutions
+      vertex 0.5 0.5 1.0 # Implementation Strategy
+    endloop
+  endfacet
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 0.5 0.5 1.0 # Implementation Strategy
+      vertex 1.0 1.0 0.0 # Research Solutions
+      vertex 1.0 0.0 1.0 # Testing Approach
+    endloop
+  endfacet
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 0.5 0.5 1.0 # Implementation Strategy
+      vertex 1.0 0.0 1.0 # Testing Approach
+      vertex 0.0 0.0 1.0 # Deployment Plan
+    endloop
+  endfacet
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 0.0 0.0 1.0 # Deployment Plan
+      vertex 0.0 0.0 0.0 # Identify Problem
+      vertex 0.5 0.5 1.0 # Implementation Strategy
+    endloop
+  endfacet
+endsolid
+```
 
 </div>
 
-## 📫 Connect
+## 🌱 Core Development Pillars
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/scalability.svg" width="80px" />
+        <h3>Scalability</h3>
+        <p>Building systems that grow with needs, not against them</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/security.svg" width="80px" />
+        <h3>Security</h3>
+        <p>Protecting digital assets as a fundamental, not an afterthought</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/simplicity.svg" width="80px" />
+        <h3>Simplicity</h3>
+        <p>Finding elegant solutions to complex problems</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🔥 Inspirational Code Snippets
+
+<details>
+  <summary>Elegant Async/Await Pattern</summary>
+  
+```javascript
+// Transform callback hell into elegant async flows
+const fetchUserData = async (userId) => {
+  try {
+    const user = await getUserById(userId);
+    const [permissions, preferences] = await Promise.all([
+      getPermissions(user.id),
+      getPreferences(user.id)
+    ]);
+    
+    return {
+      ...user,
+      capabilities: permissions.map(p => p.capability),
+      settings: preferences.settings
+    };
+  } catch (error) {
+    logger.error(`Failed to fetch complete user data: ${error.message}`);
+    throw new EnhancedError('User data retrieval failed', { 
+      originalError: error,
+      userId,
+      context: 'fetchUserData'
+    });
+  }
+};
+```
+</details>
+
+<details>
+  <summary>Functional Programming Paradigm</summary>
+  
+```python
+# Express complex operations as elegant transformations
+def process_transactions(transactions):
+    """Process financial transactions with a functional approach."""
+    return (transactions
+            # Extract only completed transactions
+            .pipe(lambda df: df[df['status'] == 'completed'])
+            # Calculate fee adjusted amounts
+            .assign(net_amount=lambda df: df['amount'] - df['fee'])
+            # Group by category and calculate statistics
+            .groupby('category')
+            .agg({
+                'net_amount': ['sum', 'mean', 'count'],
+                'timestamp': ['min', 'max']
+            })
+            # Flatten the multi-level columns
+            .pipe(lambda df: df.set_axis([f'{col[0]}_{col[1]}' 
+                                         for col in df.columns], axis=1))
+            # Add derived insights
+            .assign(
+                duration_days=lambda df: (df['timestamp_max'] - df['timestamp_min']).dt.days,
+                average_daily=lambda df: df['net_amount_sum'] / df['duration_days']
+            ))
+```
+</details>
+
+## 📚 Software Development Wisdom Collection
+
+> "Before writing code, I write out the problem. Before architecting a system, I map out the journey. The clearer the vision, the cleaner the execution."
+
+> "Every line of code should exist for a reason. Every component should serve a purpose. Excellence is found not in complexity but in justified simplicity."
+
+> "The best systems are those that can be understood in isolation yet integrate flawlessly with a greater whole. That's the software architect's paradox."
+
+> "Security isn't a layer you add—it's a mindset you adopt from the very first line of code to the very last deployment step."
+
+## 🌐 Connection Points
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aashishthakuri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/aashishthakuri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/aashishthakuri" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/aashishthakuri">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:aashish.thakuri@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://aashishthakuri.com.np">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://aashishthakuri.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <a href="mailto:contact@aashishthakuri.com.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashishThakuri&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=150&section=footer" width="100%"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
