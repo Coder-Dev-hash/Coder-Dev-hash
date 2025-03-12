@@ -1,220 +1,275 @@
-# Hello, I'm [Your Name] 👋
+# <div align="center">👨‍💻 Aashish Thakuri</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="javascript:void(0)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=440&lines=Software+Engineer;Cloud+Architect;DevOps+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
-
-## 🔍 Interactive 3D Tech Stack
 
 <div align="center">
-
-```stl
-solid Cube
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 0 1 0
-      vertex 1 1 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 1 1 0
-      vertex 1 0 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 0 0 1
-      vertex 0 1 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 0 1 1
-      vertex 0 1 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 1 0 0
-      vertex 1 1 0
-      vertex 1 1 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 1 0 0
-      vertex 1 1 1
-      vertex 1 0 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 1
-      vertex 1 0 1
-      vertex 1 1 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 1
-      vertex 1 1 1
-      vertex 0 1 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 1 0 0
-      vertex 1 0 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 0 0
-      vertex 1 0 1
-      vertex 0 0 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 1 0
-      vertex 0 1 1
-      vertex 1 1 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 0 1 0
-      vertex 1 1 1
-      vertex 1 1 0
-    endloop
-  endfacet
-endsolid
-```
-
-<details>
-<summary>🧠 Languages & Technologies</summary>
-<br>
-
-| Category | Technologies |
-|----------|:-------------:|
-| **Programming** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</details>
-
+  
+  <a href="javascript:void(0)">
+    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/borderseperator.gif" width="100%">
+  </a>
+  
 </div>
 
-## 📊 GitHub Stats with 3D Visualization
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/programming.gif" />
+
+## 🔥 Spotlight
+
+- 🚀 Building scalable cloud infrastructure with **AWS** & **Azure**
+- 🔐 Implementing **zero-trust security** architectures
+- 🤖 Developing **CI/CD pipelines** for seamless deployments
+- 🌐 **Kubernetes enthusiast** orchestrating containerized applications
+- 📊 Passionate about **data-driven architecture** decisions
+
+## 💻 Tech Arsenal
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
+      <br>Python
     </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide_border=true&theme=radical&layout=compact" />
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="65" height="65" />
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      </a>
+      <br>C#
     </td>
   </tr>
 </table>
 
-## 🌟 Featured Projects
+## 🌌 Infrastructure as Code
+
+```terraform
+module "aashish_skills" {
+  source = "github.com/AashishThakuri/terraform-modules"
+  
+  name  = "aashish-infrastructure"
+  
+  cloud_providers = {
+    aws    = "advanced"
+    azure  = "intermediate"
+    gcp    = "learning"
+  }
+  
+  containerization = {
+    docker     = "advanced"
+    kubernetes = "advanced"
+    helm       = "intermediate"
+  }
+  
+  ci_cd = {
+    github_actions = "advanced"
+    jenkins        = "intermediate"
+    gitlab_ci      = "intermediate"
+    argocd         = "intermediate"
+  }
+  
+  monitoring = {
+    prometheus = "advanced"
+    grafana    = "advanced"
+    elk_stack  = "intermediate"
+  }
+  
+  security = {
+    vault          = "intermediate"
+    oauth          = "advanced"
+    zero_trust     = "intermediate"
+    devsecops      = "learning"
+  }
+}
+```
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AashishThakuri&theme=tokyonight&hide_border=true&background=1A1B27"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AashishThakuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishThakuri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=1A1B27"/>
+</p>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-<a href="https://github.com/yourusername/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AashishThakuri&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 </div>
 
-## 🎮 Fun Element: GitHub Contribution Skyline
+## 🎯 My DevOps Architecture Blueprint
+
+```mermaid
+graph TD
+    A[Source Code] -->|Git Push| B[GitHub]
+    B -->|Triggers| C[CI Pipeline]
+    C -->|Build| D[Docker Image]
+    D -->|Push| E[Container Registry]
+    C -->|Run| F[Automated Tests]
+    F -->|Success| G{Deploy?}
+    G -->|Dev/Staging| H[Kubernetes Dev Cluster]
+    G -->|Production| I[Production Approval]
+    I -->|Approved| J[Kubernetes Prod Cluster]
+    J --> K[Monitoring & Alerting]
+    K -->|Metrics| L[Grafana Dashboards]
+    K -->|Logs| M[Elasticsearch]
+    L --> N[Performance Analysis]
+    M --> N
+    N -->|Insights| A
+    
+    style A fill:#3498db,stroke:#333,stroke-width:2px
+    style J fill:#e74c3c,stroke:#333,stroke-width:2px
+    style K fill:#2ecc71,stroke:#333,stroke-width:2px
+    style N fill:#f39c12,stroke:#333,stroke-width:2px
+```
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://skyline.github.com/yourusername/2024">
-    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/skyline.gif" width="600" alt="GitHub Skyline" />
+  <a href="https://github.com/AashishThakuri/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashishThakuri&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
-  
-  <details>
-  <summary>🎯 My Coding Journey Visualized</summary>
-  <br>
-  
-  ```mermaid
-  timeline
-    title My Coding Journey
-    2020 : Started learning to code
-         : Built first website
-    2021 : Learned React.js
-         : Contributed to open source
-    2022 : Mastered backend development
-         : Built full-stack applications
-    2023 : Explored AI and ML
-         : Created developer tools
-    2024 : Working on innovative projects
-         : Mentoring new developers
-  ```
-  
-  </details>
+  <a href="https://github.com/AashishThakuri/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashishThakuri&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
-## 🔄 Weekly Development Breakdown
+## 🎮 My Coding Workstation
 
 <div align="center">
-  
+  <a href="javascript:void(0)">
+    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/coding-station.svg" width="600" height="400" alt="Coding Workstation SVG" />
+  </a>
+</div>
+
+## 🕹️ Interactive GitHub Contribution Animation
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+## 📊 Weekly Coding Stats
+
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 45 mins  ███████████▓░░░░░░░░░░░   47.32 %
-TypeScript   8 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░   30.51 %
-Python       2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░   09.28 %
-CSS          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Markdown     1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Other        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Terraform    12 hrs 30 mins  ██████████░░░░░░░░░░░░  40.23%
+Python       8 hrs 45 mins   ███████░░░░░░░░░░░░░░░  28.16%
+YAML         4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░  13.54%
+Markdown     2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░   6.71%
+Bash         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░   5.81%
+Other        1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░   5.55%
 ```
 <!--END_SECTION:waka-->
 
+## 🔄 My Service Architecture
+
+<div align="center">
+  <a href="javascript:void(0)">
+    <img src="https://raw.githubusercontent.com/AashishThakuri/AashishThakuri/main/assets/service-architecture.svg" width="600" height="400" alt="Service Architecture SVG" />
+  </a>
 </div>
 
-## 🔮 3D Contribution Graph
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-
-## 📫 Connect With Me
+## 🛡️ Security Focus Areas
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+| Security Domain | Tools & Techniques |
+|:---------------:|:------------------:|
+| **Infrastructure Security** | HashiCorp Vault, AWS KMS, Azure Key Vault |
+| **Application Security** | OWASP Testing, SonarQube, Snyk |
+| **Container Security** | Trivy, Clair, NeuVector |
+| **Compliance** | CIS Benchmarks, SOC2, GDPR |
+| **Network Security** | Zero Trust Architecture, mTLS, Service Mesh |
+| **IAM** | RBAC, OAuth 2.0, OIDC, JWT |
 
+</div>
+
+## 📫 Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aashishthakuri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/aashishthakuri" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:aashish.thakuri@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://aashishthakuri.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AashishThakuri&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/wave.svg" width="100%" height="150">
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
